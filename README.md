@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/vidlamp-logo.svg" alt="Vidlamp" width="360"></p>
+
 # Vidlamp
 
 AI images and videos on your own PC, with your own ComfyUI. Free to use, also for paid work; a few extra Pro tools for [Patreon](https://www.patreon.com/c/stefanobeck) members.
