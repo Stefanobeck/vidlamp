@@ -28,9 +28,11 @@ Everything runs on your computer. Your photos, videos and prompts stay there.
 
 | | |
 |---|---|
-| **Images** | Create from text, edit with an instruction, change the angle of a photo, swap a head, upscale and restore old or small pictures |
-| **Videos** | Video from text, animate a photo, first and last frame, continue a video, make a photo move like a video, improve the face, upscale |
-| **Audio** | Voices from text, songs and instrumental music, sound for a silent video |
+| **Images** | Create from text with three different models, edit with an instruction, put the same person in a new scene, copy the style of a picture, upscale and restore old or small pictures |
+| **Videos** | Video from text with its sound, animate a photo (also with your own voice: the lips follow it), upscale and restore a video, make it smoother and sharper |
+| **Audio** | Voices from text (also from a sample of a voice), songs, instrumental music and covers, sound effects |
+
+When a new tool comes out, Vidlamp shows it inside the app.
 
 And around the tools:
 
@@ -99,11 +101,13 @@ Tutto gira sul tuo computer. Foto, video e prompt restano lì.
 
 ### Cosa puoi fare
 
-- **Immagini**: crearle dal testo, modificarle con un'istruzione, cambiare l'angolo di una foto, scambiare una testa,
-  ingrandire e restaurare foto vecchie o piccole.
-- **Video**: video dal testo, animare una foto, primo e ultimo fotogramma, continuare un video, far muovere una foto
-  come in un video, migliorare il viso, ingrandire.
-- **Audio**: voci dal testo, canzoni e musica strumentale, suono per un video muto.
+- **Immagini**: crearle dal testo con tre modelli diversi, modificarle con un'istruzione, mettere la stessa persona
+  in una scena nuova, copiare lo stile di un'immagine, ingrandire e restaurare foto vecchie o piccole.
+- **Video**: video dal testo col suo suono, animare una foto (anche con la tua voce: le labbra la seguono),
+  ingrandire e restaurare un video, renderlo più fluido e nitido.
+- **Audio**: voci dal testo (anche da un campione di voce), canzoni, musica strumentale e cover, effetti sonori.
+
+Quando esce un tool nuovo, Vidlamp lo mostra dentro l'app.
 
 E intorno ai tool: installa i modelli al posto tuo e li prova, versioni leggere per schede video da 8 GB, Auto prompt
 (scrivi l'idea nella tua lingua), Batch per mettere in coda tanti lavori, licenza di ogni modello sempre in vista,
