@@ -3,7 +3,7 @@
 <h3 align="center">AI images, videos, music and voices on your own PC.<br>No prompts to learn, no nodes to connect.</h3>
 
 <p align="center">
-  <a href="https://github.com/Stefanobeck/vidlamp/releases"><b>Download for Windows</b></a> ·
+  <a href="https://www.patreon.com/stefanobeck/posts/download-vidlamp-173899687"><b>Download for Windows</b></a> (free, on Patreon) ·
   <a href="https://www.youtube.com/@tutorial3d">Tutorials</a> ·
   <a href="https://www.patreon.com/c/stefanobeck">Patreon</a>
 </p>
@@ -50,8 +50,8 @@ And around the tools:
 
 1. **Install ComfyUI** if you do not have it: [comfy.org/download](https://www.comfy.org/download). Vidlamp uses your
    ComfyUI and does not replace it.
-2. **Download Vidlamp** from the [Releases](https://github.com/Stefanobeck/vidlamp/releases) page (the `.zip` file of
-   the latest version).
+2. **Download Vidlamp** from [Patreon](https://www.patreon.com/stefanobeck/posts/download-vidlamp-173899687): join for free (your email is all it takes), then open the
+   download post and get the `.zip` file.
 3. **Unzip the folder** where you like, best on a fast SSD. Nothing else to install: Vidlamp brings its own Python.
 4. **Double-click `Vidlamp.exe`.**
    Windows may show "Windows protected your PC", because the app is not digitally signed: click
@@ -117,8 +117,8 @@ E intorno ai tool: installa i modelli al posto tuo e li prova, versioni leggere 
 
 1. **Installa ComfyUI** se non lo hai: [comfy.org/download](https://www.comfy.org/download). Vidlamp usa il tuo
    ComfyUI, non lo sostituisce.
-2. **Scarica Vidlamp** dalla pagina [Releases](https://github.com/Stefanobeck/vidlamp/releases) (il file `.zip`
-   dell'ultima versione).
+2. **Scarica Vidlamp** da [Patreon](https://www.patreon.com/stefanobeck/posts/download-vidlamp-173899687): iscriviti gratis (basta la tua email), poi apri il post del
+   download e prendi il file `.zip`.
 3. **Scompatta la cartella** dove vuoi, meglio su un SSD veloce. Non serve installare altro: Vidlamp porta il suo
    Python.
 4. **Doppio clic su `Vidlamp.exe`.**
